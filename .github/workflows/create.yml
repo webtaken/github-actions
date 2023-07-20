@@ -1,7 +1,7 @@
 name: on create event workflow
 
 on:
-  push
+  create
 
 env:
   DAY_OF_WEEK: Monday
